@@ -30,8 +30,8 @@ Compile code guiding in src directory and using the Makefile:
 ### Execution
 Execute using:
 <br /> ```$ ./minisearch -k K -i docfile```
-<br />K: Number of results for each query
-<br />docfile: Name of file containing articles
+* K: Number of results for each query
+* docfile: Name of file containing articles
 
 ### Queries
 * /search: word1 word2
